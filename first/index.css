@@ -1,0 +1,34 @@
+.main_header{
+    height:150px;
+    width:100%;
+    background: #383838;
+}
+
+.box{
+    height:90vh;
+    width:20%;
+    background: lightgray;
+    float:left;
+}
+
+/* .box:nth-child(3){
+    width:50%;
+    background: blue;
+} */
+
+ .middle{
+    width:60%;
+    background: blue;
+} 
+
+.top{
+    width:100%;
+    height:85%;
+    background: white;
+}
+
+.bottom{
+    width:100%;
+    height:15%;
+    background: black;
+}
